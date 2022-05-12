@@ -16,7 +16,7 @@
 		</repository>
 	</repositories>
 	<properties>
-		<coatJava.version>5.1-SNAPSHOT</coatJava.version>
+		<coatJava.version>8.0.0-SNAPSHOT</coatJava.version>
 		<lombok.version>1.18.4</lombok.version>
 		<dl4j.version>1.0.0-beta3</dl4j.version>
 		<ndj.version>1.0.0-beta3</ndj.version>
